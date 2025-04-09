@@ -1,3 +1,3 @@
 # github-demo
 <br> 
-<p>Auther - ARiF KHAN</p> 
+<p>Auther - ARIF </p> 
